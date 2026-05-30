@@ -1,0 +1,13 @@
+инструкция/instructions:
+1 win+r, cmd, enter
+2.write: pip install selenium webdriver-manager
+3.write: cd С:(file location)
+4.write: python Whatsapp.py
+5.After a while, the WhatsApp web page will open (in Chrome). If you are from Russia, you need to turn on VPN.э
+6. you will need to scan the qr code from your mobile app and after that press enter in cmd
+
+1. win+r, cmd, enter
+2. в строку в cmd пишешь: pip install selenium webdriver-manager
+3. после этого пишешь cd C:(расположение файла)
+4. пишешь в cmd : python WhatsApp.py
+5. ждешь несколько секунд, и у тебя откроется вотсапп веб. тебе нужно будет через мобильное приложение отсканировать qr код и после этого в cmd нажать enter.
